@@ -1,0 +1,1 @@
+my name : Gagandeep Singh , age is : 20, gender is : male, address is 2.6.9 A Golden Avenue Phase 2, jalandhar, punjab, INDIA and description of mine is : This was the small example, where we have learned how to make a post request while submitting a form and storing the data.
